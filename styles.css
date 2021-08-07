@@ -156,6 +156,7 @@ table.preparation td {
         min-width: 300px;
         margin: 40px 10%;
         padding: 3%;
+        padding-top: 0px;
     }
     table.info {
         height: 80px
